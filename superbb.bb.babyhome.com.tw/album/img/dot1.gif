@@ -1,0 +1,16 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE>404 Not Found</TITLE>
+<meta http-equiv="refresh" content="20; url=http://www.babyhome.com.tw/">
+</HEAD>
+<BODY>
+<H2>Not Found</H1>
+The requested URL was not found on this server.<P>
+<H2>找不到您要查詢的網頁</H1>
+
+<hr size=1 color=red>
+<a href=http://www.babyhome.com.tw>
+<img src=/img/babyhome_logo2.gif border=1 alt='BabyHome'></a>
+<br>
+<a href=http://www.babyhome.com.tw/><font color=blue> BabyHome </font></a>
+</BODY></HTML>
